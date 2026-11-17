@@ -1,5 +1,4 @@
-# 🔍 Automated Failure Mining & Active Learning Curation Engine (Phase 2)
-
+# 🔍 Automated Failure Mining & Active Learning Curation Engine 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Video_Processing-red.svg)](https://opencv.org)
 [![Active Learning](https://img.shields.io/badge/Active_Learning-Heuristic_Mining-green.svg)](https://github.com)
