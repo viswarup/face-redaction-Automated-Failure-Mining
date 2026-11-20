@@ -1,4 +1,4 @@
-# 🔍 Automated Failure Mining & Active Learning Curation Engine (Phase 2)
+# 🔍 Automated Failure Mining & Active Learning Curation Engine 
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Video_Processing-red.svg)](https://opencv.org)
@@ -172,9 +172,3 @@ python run_miner.py
 python generate_showcase_assets.py
 ```
 
----
-
-## 7. Next Steps: Feeding Phase 3 & Phase 4
-
-* **Phase 3 (Deduplication & Clustering):** Pass harvested crops through vision embeddings (DINOv2 / CLIP) and run HDBSCAN to select diverse cluster centroids (preventing dataset saturation).
-* **Phase 4 (Targeted Fine-Tuning):** Blend the 20% mined failure batch into the golden training set with synthetic motion blur and low-light gamma augmentations.
